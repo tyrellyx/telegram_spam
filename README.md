@@ -5,15 +5,18 @@
 
 <div id="socials" align="center">
 	<h4> Для покупки пишите в мне в телеграм акаунт</h4> 
+	<p>
 	<a href="https://t.me/tyrellwellw">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
+	</p>	
 </div>
 
+<p>
 <div align="center">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZcJ7ZzK/screen-1.png" alt="screen-1" border="0"></a>
 </div>
-
+</p>
 
 
 
