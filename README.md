@@ -5,7 +5,7 @@
 
 <div id="socials" align="center">
 	<a href="https://t.me/tyrellwellw">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<h4> Для покупки пишите в мне в телеграм </h4><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
 
