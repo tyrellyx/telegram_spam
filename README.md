@@ -4,8 +4,9 @@
 </div>
 
 <div id="socials" align="center">
+	<h4> Для покупки пишите в мне в телеграм </h4> 
 	<a href="https://t.me/tyrellwellw">
-		<h4> Для покупки пишите в мне в телеграм </h4><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
 
