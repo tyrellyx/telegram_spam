@@ -11,10 +11,9 @@
 </div>
 
 <div align="center">
-	<a href="https://ibb.co/Jrdghj2"><img src="https://i.ibb.co/Jrdghj2/screen-1.png" alt="screen-1" border="0"></a>
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZcJ7ZzK/screen-1.png" alt="screen-1" border="0"></a>
 </div>
 
-<a href="https://ibb.co/Jrdghj2"><img src="https://i.ibb.co/Jrdghj2/screen-1.png" alt="screen-1" border="0"></a>
 
 
 
