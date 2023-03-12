@@ -20,4 +20,9 @@
 
 
 
-### Ещё есть бот для автоматического вступления в группы. 
+### Ещё есть бот для автоматического вступления в группы:
+<p>
+<div align="center">
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/nPBwWFm/screen-2.png" alt="screen-2" border="0"></a>
+</div>
+</p>
